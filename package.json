@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/250970849/gulu#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "markdown-it": "^9.0.1",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
